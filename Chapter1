@@ -1,0 +1,10 @@
+python
+
+pip install numpy
+
+>>> import numpy
+
+pip install scipy
+
+pip install tensorflow
+
